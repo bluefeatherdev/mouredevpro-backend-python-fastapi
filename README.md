@@ -6,7 +6,7 @@
 
 > Espacio de estudio personal para aprender y practicar desarrollo backend con Python a través de un curso completo de FastAPI. Aquí construiré paso a paso una API REST con autenticación, conectada a una base de datos MongoDB y desplegada en Vercel. 
 > 
-> [Thanks to MoureDev!](https://moure.dev) 🤘.
+> [Thanks to MoureDev!](https://moure.dev) 🤘
 
 ## 🔎 ¿Qué encontrarás?  
 

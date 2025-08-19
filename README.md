@@ -1,11 +1,8 @@
 # Curso Backend con Python y FastAPI  
 
-![Static Badge](https://img.shields.io/badge/language-python-3776AB?style=for-the-badge&logo=python&labelColor=101010)  
-![Static Badge](https://img.shields.io/badge/framework-fastapi-009688?style=for-the-badge&logo=fastapi&labelColor=101010)  
-![Static Badge](https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&labelColor=101010)  
-![Static Badge](https://img.shields.io/badge/deploy-vercel-000000?style=for-the-badge&logo=vercel&labelColor=101010)  
+![Static Badge](https://img.shields.io/badge/python-x.x.x-3776AB?style=for-the-badge&logo=python&labelColor=101010) ![Static Badge](https://img.shields.io/badge/fastapi-x.x.x-009688?style=for-the-badge&logo=fastapi&labelColor=101010) ![Static Badge](https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&labelColor=101010) ![Static Badge](https://img.shields.io/badge/deploy-vercel-000000?style=for-the-badge&logo=vercel&labelColor=101010)  
 
-Este repositorio es mi espacio de estudio personal para aprender y practicar **desarrollo backend con Python** a través de un curso completo de **FastAPI**.  
+Espacio de estudio personal para aprender y practicar desarrollo **backend** con **Python** a través de un curso completo de **FastAPI**.  
 
 ![header_curso](./images/header_backend_fastapi.png)  
 

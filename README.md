@@ -1,12 +1,10 @@
 # Curso Backend con Python y FastAPI  
 
-![Static Badge](https://img.shields.io/badge/python-x.x.x-3776AB?style=for-the-badge&logo=python&labelColor=101010) ![Static Badge](https://img.shields.io/badge/fastapi-x.x.x-009688?style=for-the-badge&logo=fastapi&labelColor=101010) ![Static Badge](https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&labelColor=101010) ![Static Badge](https://img.shields.io/badge/deploy-vercel-000000?style=for-the-badge&logo=vercel&labelColor=101010)  
-
-Espacio de estudio personal para aprender y practicar desarrollo **backend** con **Python** a través de un curso completo de **FastAPI**.  
+![Static Badge](https://img.shields.io/badge/python-x.x.x-3776AB?style=for-the-badge&logo=python&labelColor=101010) ![Static Badge](https://img.shields.io/badge/fastapi-x.x.x-009688?style=for-the-badge&logo=fastapi&labelColor=101010) ![Static Badge](https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&labelColor=101010) ![Static Badge](https://img.shields.io/badge/deploy-vercel-000000?style=for-the-badge&logo=vercel&labelColor=101010)   
 
 ![header_curso](./images/header_backend_fastapi.png)  
 
-> Aquí construiré paso a paso una **API REST con autenticación**, conectada a una base de datos **MongoDB** y desplegada en **Vercel**.  
+> Espacio de estudio personal para aprender y practicar desarrollo **backend** con **Python** a través de un curso completo de **FastAPI**. Aquí construiré paso a paso una **API REST con autenticación**, conectada a una base de datos **MongoDB** y desplegada en **Vercel**.  
 
 
 ## 🔎 ¿Qué encontrarás?  

@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/python-x.x.x-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010) ![Static Badge](https://img.shields.io/badge/fastapi-x.x.x-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010) ![Static Badge](https://img.shields.io/badge/database-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010) ![Static Badge](https://img.shields.io/badge/deploy-vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)   
 
-![header_curso](./images/header_backend_fastapi.png)  
+![header_curso](./images/header_mouredevpro_backend_python_fastapi.png)  
 
 > Espacio de estudio personal para aprender y practicar desarrollo backend con Python a través de un curso completo de FastAPI. Aquí construiré paso a paso una API REST con autenticación, conectada a una base de datos MongoDB y desplegada en Vercel.  
 

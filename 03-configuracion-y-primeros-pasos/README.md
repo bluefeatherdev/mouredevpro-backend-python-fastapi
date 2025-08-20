@@ -1,6 +1,6 @@
 ## 🎯 Stack actual
 
-[![stack](https://skills.syvixor.com/api/icons?i=vscode,python,fastapi,uvicorn,swagger,redoc,postman,thunderclient&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+[![stack](https://skills.syvixor.com/api/icons?i=vscode,markdown,python,fastapi,uvicorn,json,swagger,redoc,postman,thunderclient&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
 
 ## 👨‍💻 Comandos utilizados
 

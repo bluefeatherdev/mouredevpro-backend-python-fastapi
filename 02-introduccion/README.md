@@ -1,3 +1,7 @@
+## 🎯 Stack actual
+
+[![stack](https://skills.syvixor.com/api/icons?i=vscode,markdown,python&perline=8&radius=40)](https://github.com/syvixor/skills-icons)
+
 ## 🔗 Enlaces de interés
 
 ### API y FastAPI

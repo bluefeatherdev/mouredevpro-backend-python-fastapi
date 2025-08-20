@@ -1,2 +1,5 @@
 # From Visual Studio Code:
 .vscode
+
+# From Python:
+__pycache__

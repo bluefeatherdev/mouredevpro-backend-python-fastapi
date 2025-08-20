@@ -4,7 +4,7 @@
 
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [OpenAPI](https://github.com/OAI/OpenAPI-Specification)
-- [JSON Schema](httphttps://json-schema.org/)
+- [JSON Schema](https://json-schema.org/)
 
 ### Type Hints
 
